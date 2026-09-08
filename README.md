@@ -1,3 +1,5 @@
+[![tests](https://github.com/A14x01/esp32-ble-test-harness/actions/workflows/tests.yml/badge.svg)](https://github.com/A14x01/esp32-ble-test-harness/actions/workflows/tests.yml)
+
 # ESP32 BLE Test Harness
 
 An automated test suite for a BLE thermostat running on an ESP32, built to
